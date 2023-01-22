@@ -61,7 +61,7 @@ body {
 
 /* Make the friend list transparent and blured */
 .main-buddyFeed-buddyFeedRoot {
-  background-color: rgba(30, 30, 30, 0.4);
+  background: transparent;
   backdrop-filter: blur(14px) !important;
 }
 
